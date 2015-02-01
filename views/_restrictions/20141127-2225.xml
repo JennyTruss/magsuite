@@ -1,0 +1,2058 @@
+<?xml version="1.0" encoding="utf-8"?>
+<attendees>
+	<attendee name="Jay Plott" badge_type="Staff" badge_number="80" no_cheese="false">
+  </attendee>
+
+	<attendee name="Joey DeSena" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Davis Gigogne" badge_type="Staff" badge_number="286" no_cheese="false">
+  </attendee>
+
+	<attendee name="Gerry Felipe" badge_type="Staff" badge_number="323" no_cheese="false">
+  </attendee>
+
+	<attendee name="Daniel Parisi" badge_type="Staff" badge_number="93" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ian Squibb" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Brittany Rash" badge_type="Staff" badge_number="97" no_cheese="true" dairy="true">
+	  <notes>Allergic to eggs, dairy, and soy protein (soybean oil and soy lecithin are safe)
+	  </notes>
+  </attendee>
+
+	<attendee name="Julius Verzosa" badge_type="Staff" badge_number="122" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ryan Meier" badge_type="Staff" badge_number="62" no_cheese="false">
+  </attendee>
+
+	<attendee name="Luis Guevara" badge_type="Staff" badge_number="244" no_cheese="false">
+		<notes>no restrictions  </notes>
+  </attendee>
+
+	<attendee name="James Rosensteel" badge_type="Staff" badge_number="451" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ellis Eisen" badge_type="Staff" badge_number="91" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jarrett Courtney" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Tj Wagner" badge_type="Staff" badge_number="325" no_cheese="false">
+  </attendee>
+
+	<attendee name="Bob Gorski" badge_type="Staff" badge_number="161" no_cheese="false">
+  </attendee>
+
+	<attendee name="Murphy Minter" badge_type="Staff" badge_number="198" no_cheese="false">
+  </attendee>
+
+	<attendee name="Marshall Etzler" badge_type="Staff" badge_number="140" no_cheese="false">
+		<notes>none  </notes>
+  </attendee>
+
+	<attendee name="Sy Cody White" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Chad James" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Joe Cooter" badge_type="Staff" badge_number="309" no_cheese="false">
+  </attendee>
+
+	<attendee name="Marc Phillips" badge_type="Staff" badge_number="243" no_cheese="false">
+	<notes>No allergies or restrictions  </notes>
+  </attendee>
+
+	<attendee name="Benjamin Walker" badge_type="Staff" badge_number="73" no_cheese="false">
+  </attendee>
+
+	<attendee name="Mary Pettengill" badge_type="Staff" badge_number="372" no_cheese="false" vegetarian="true" pork="true">
+  </attendee>
+
+	<attendee name="Lauren Stiger" badge_type="Staff" badge_number="177" no_cheese="true" pork="true">
+	  <notes>Corn, Rice, Potato/Tomato/Eggplant, Legumes [peanut/beans/soy/licorice], shellfish. They usually don't feed me, but last year my department chairs said they might look into some kind of food reimbursement [even just at the super low staff per diem budget level]
+	  </notes>
+  </attendee>
+
+	<attendee name="Phil Adams" badge_type="Staff" badge_number="75" no_cheese="false">
+  </attendee>
+
+	<attendee name="Joseph Devine" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Katharine Sobotka" badge_type="Staff" badge_number="166" no_cheese="false">
+  </attendee>
+
+	<attendee name="Richard Mackay" badge_type="Staff" badge_number="26" no_cheese="false">
+  </attendee>
+
+	<attendee name="Arin Hanson" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Michael Pittman" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Zachary Trevillian" badge_type="Staff" badge_number="189" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ethan O&#39;Toole" badge_type="Staff" badge_number="32" no_cheese="false">
+  </attendee>
+
+	<attendee name="Tom Dougherty" badge_type="Staff" badge_number="429" no_cheese="false">
+  </attendee>
+
+	<attendee name="Luke Lorah" badge_type="Staff" badge_number="183" no_cheese="false">
+  </attendee>
+
+	<attendee name="Tom Fulp" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Oliver Minall" badge_type="Staff" badge_number="419" no_cheese="false">
+  </attendee>
+
+	<attendee name="Nathan Jellerson" badge_type="Staff" badge_number="441" no_cheese="false">
+		<notes>shellfish  </notes>
+  </attendee>
+
+	<attendee name="Jamie Elmore" badge_type="Staff" badge_number="220" no_cheese="false">
+  </attendee>
+
+	<attendee name="Tiffany Fox" badge_type="Staff" badge_number="406" no_cheese="false" vegetarian="true" pork="true">
+	  <notes>Question above? Answer is "none of these". I don't eat nuts.
+	  </notes>
+  </attendee>
+
+	<attendee name="David Christoph" badge_type="Staff" badge_number="453" no_cheese="false">
+  </attendee>
+
+	<attendee name="Peter Pappas" badge_type="Staff" badge_number="209" no_cheese="false">
+  </attendee>
+
+	<attendee name="David Goldberg" badge_type="Staff" badge_number="465" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ryan Sams" badge_type="Staff" badge_number="137" no_cheese="false" pork="true">
+		<notes>Pineapple  </notes>
+  </attendee>
+
+	<attendee name="Tim Stanonik" badge_type="Staff" badge_number="90" no_cheese="false">
+  </attendee>
+
+	<attendee name="Raymond Braun" badge_type="Staff" badge_number="362" no_cheese="false">
+  </attendee>
+
+	<attendee name="Benjamin Scaldini" badge_type="Staff" badge_number="163" no_cheese="false">
+  </attendee>
+
+	<attendee name="Dondre Campbell" badge_type="Staff" badge_number="268" no_cheese="false">
+		<notes>None whatsoever  </notes>
+  </attendee>
+
+	<attendee name="Jay Tibrewala" badge_type="Attendee" now_eligible="false" no_cheese="false">
+  </attendee>
+
+	<attendee name="Charles Graham" badge_type="Staff" badge_number="403" no_cheese="false">
+  </attendee>
+
+	<attendee name="Keith Simonson" badge_type="Staff" badge_number="389" no_cheese="false">
+  </attendee>
+
+	<attendee name="Chris Ryberg" badge_type="Staff" badge_number="89" no_cheese="false">
+		<notes>None  </notes>
+  </attendee>
+
+	<attendee name="Nathan Lief" badge_type="Staff" badge_number="234" no_cheese="false">
+  </attendee>
+
+	<attendee name="Daquan Page" badge_type="Staff" badge_number="192" no_cheese="false">
+  </attendee>
+
+	<attendee name="Diana Lezenby" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Wes Johnson" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Daniel Craig Williams" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Mellissa Braus" badge_type="Staff" badge_number="353" no_cheese="false">
+	  <notes>diabetic, so possibly coke zero? If not, i can bring my own. Thanks
+	  </notes>
+  </attendee>
+
+	<attendee name="Robert Passovoy" badge_type="Staff" badge_number="343" no_cheese="false">
+  </attendee>
+
+	<attendee name="Rebecca Moses" badge_type="Staff" badge_number="413" no_cheese="false">
+  </attendee>
+
+	<attendee name="Scott Riley" badge_type="Staff" badge_number="495" no_cheese="false">
+  </attendee>
+
+	<attendee name="Brian Friedhoff" badge_type="Staff" badge_number="217" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jason Ford" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Barry Hesson" badge_type="Staff" badge_number="87" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kenny Pham" badge_type="Staff" badge_number="256" no_cheese="false">
+		<notes>Peanuts  </notes>
+  </attendee>
+
+	<attendee name="Barry Kramer" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jon Mazzetta" badge_type="Staff" badge_number="52" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kevin Flanagan" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Mercedes Burns" badge_type="Staff" badge_number="261" no_cheese="false">
+  </attendee>
+
+	<attendee name="Christopher Perih" badge_type="Attendee" now_eligible="false" no_cheese="false">
+  </attendee>
+
+	<attendee name="Brendan Brassil" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Richard Raymond" badge_type="Staff" badge_number="27" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ashley VanMeter" badge_type="Staff" badge_number="415" no_cheese="false">
+		<notes>Allergic to tomato and citrus.  </notes>
+  </attendee>
+
+	<attendee name="Gabe Helou" badge_type="Staff" badge_number="330" no_cheese="false">
+		<notes>Fairly omnivorous.  </notes>
+  </attendee>
+
+	<attendee name="Jason Tester" badge_type="Staff" badge_number="360" no_cheese="false">
+		<notes>Allergic to frozen yogurt  </notes>
+  </attendee>
+
+	<attendee name="Brandon Twigg" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jesse Racey" badge_type="Staff" badge_number="165" no_cheese="false">
+		<notes>Oranges  </notes>
+  </attendee>
+
+	<attendee name="Jess Purvis" badge_type="Staff" badge_number="326" no_cheese="false">
+  </attendee>
+
+	<attendee name="Eric Brown" badge_type="Staff" badge_number="472" no_cheese="false">
+  </attendee>
+
+	<attendee name="Christopher Blucher" badge_type="Staff" badge_number="86" no_cheese="false">
+  </attendee>
+
+	<attendee name="Tim Ekkebus" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Lauren McMillon" badge_type="Staff" badge_number="443" no_cheese="false">
+  </attendee>
+
+	<attendee name="Anthony De Lioncourt" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Calvin Winkowski" badge_type="Staff" badge_number="282" no_cheese="false">
+  </attendee>
+
+	<attendee name="Brandon Jones" badge_type="Staff" badge_number="271" no_cheese="false">
+  </attendee>
+
+	<attendee name="Mary E. G. Ratliff" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Eliza Blair" badge_type="Staff" badge_number="107" no_cheese="false" gluten="true">
+  </attendee>
+
+	<attendee name="Michael Barnett" badge_type="Staff" badge_number="484" no_cheese="false">
+  </attendee>
+
+	<attendee name="Sterling Diesel" badge_type="Staff" badge_number="306" no_cheese="false" vegetarian="true" pork="true">
+  </attendee>
+
+	<attendee name="Jesse Tang" badge_type="Staff" badge_number="324" no_cheese="false">
+  </attendee>
+
+	<attendee name="Carrie Snyder" badge_type="Staff" badge_number="69" no_cheese="true" dairy="true">
+		<notes>Allergic to dairy  </notes>
+  </attendee>
+
+	<attendee name="Andrew Getty" badge_type="Staff" badge_number="103" no_cheese="false" pork="true">
+  </attendee>
+
+	<attendee name="Rose Miner" badge_type="Staff" badge_number="287" no_cheese="false">
+  </attendee>
+
+	<attendee name="Daria Morgendorffer" badge_type="Staff" badge_number="152" no_cheese="false">
+  </attendee>
+
+	<attendee name="Amanda Colon" badge_type="Staff" badge_number="367" no_cheese="false">
+  </attendee>
+
+	<attendee name="James Campbell" badge_type="Staff" badge_number="385" no_cheese="false">
+  </attendee>
+
+	<attendee name="Benjamin Antonelli" badge_type="Staff" badge_number="491" no_cheese="false">
+  </attendee>
+
+	<attendee name="Amanda Wolf" badge_type="Staff" badge_number="423" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kevin Weber" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Sean Pearson" badge_type="Staff" badge_number="175" no_cheese="false">
+  </attendee>
+
+	<attendee name="Donovan Duvall" badge_type="Staff" badge_number="174" no_cheese="false">
+  </attendee>
+
+	<attendee name="Chuck Fozard" badge_type="Staff" badge_number="15" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ross O&#39;Donovan" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Katie Bischoff" badge_type="Staff" badge_number="280" no_cheese="false">
+  </attendee>
+
+	<attendee name="Will Mackay" badge_type="Staff" badge_number="41" no_cheese="false">
+  </attendee>
+
+	<attendee name="Michelle Hennessy" badge_type="Staff" badge_number="281" no_cheese="false">
+  </attendee>
+
+	<attendee name="Christopher Dusold" badge_type="Staff" badge_number="284" no_cheese="false">
+  </attendee>
+
+	<attendee name="David Lee" badge_type="Staff" badge_number="95" no_cheese="false">
+		<notes>Diabetic  </notes>
+  </attendee>
+
+	<attendee name="Scott Clements" badge_type="Staff" badge_number="297" no_cheese="false">
+  </attendee>
+
+	<attendee name="John Cane" badge_type="Staff" badge_number="232" no_cheese="false">
+  </attendee>
+
+	<attendee name="Vanessa Minter" badge_type="Staff" badge_number="105" no_cheese="false">
+  </attendee>
+
+	<attendee name="Brodrick Flowers" badge_type="Staff" badge_number="116" no_cheese="false">
+  </attendee>
+
+	<attendee name="Bryan Travelstead" badge_type="Staff" badge_number="199" no_cheese="false">
+  </attendee>
+
+	<attendee name="Steve VanSickle" badge_type="Staff" badge_number="230" no_cheese="false">
+  </attendee>
+
+	<attendee name="Richard Scott" badge_type="Staff" badge_number="210" no_cheese="false">
+		<notes>Hypoglycemic  </notes>
+  </attendee>
+
+	<attendee name="Michael Ryan" badge_type="Staff" badge_number="474" no_cheese="true">
+  </attendee>
+
+	<attendee name="Eli Courtwright" badge_type="Staff" badge_number="5" no_cheese="false" vegetarian="true" pork="true">
+  </attendee>
+
+	<attendee name="Christopher Burton" badge_type="Staff" badge_number="111" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jeff Moffitt" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Charles Margolis" badge_type="Staff" badge_number="420" no_cheese="false">
+  </attendee>
+
+	<attendee name="Sean Lewis" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Tom Diehm" badge_type="Staff" badge_number="83" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ian Millholland" badge_type="Staff" badge_number="460" no_cheese="false">
+	  <notes>Peanut and Hazelnut allergy (MINOR, just dont serve me any)
+	  </notes>
+  </attendee>
+
+	<attendee name="Jeff Rosen" badge_type="Staff" badge_number="132" no_cheese="false">
+  </attendee>
+
+	<attendee name="Bj Keifer" badge_type="Staff" badge_number="336" no_cheese="false">
+		<notes>Cannot eat chicken  </notes>
+  </attendee>
+
+	<attendee name="Danita Hodges" badge_type="Staff" badge_number="115" no_cheese="false">
+  </attendee>
+
+	<attendee name="Brent Black" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Aaren Layne" badge_type="Staff" badge_number="120" no_cheese="false">
+  </attendee>
+
+	<attendee name="David Lewis" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Michael Jones II" badge_type="Staff" badge_number="375" no_cheese="false">
+  </attendee>
+
+	<attendee name="Max Gilardi" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Paul Good" badge_type="Staff" badge_number="3" no_cheese="false">
+  </attendee>
+
+	<attendee name="Brad Loy" badge_type="Staff" badge_number="359" no_cheese="false">
+  </attendee>
+
+	<attendee name="Afton Sadler" badge_type="Staff" badge_number="394" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jefferson Eng" badge_type="Staff" badge_number="263" no_cheese="false">
+  </attendee>
+
+	<attendee name="Joe Walker" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Gabriel Snyder" badge_type="Staff" badge_number="381" no_cheese="false">
+  </attendee>
+
+	<attendee name="Glenn Graeber" badge_type="Staff" badge_number="77" no_cheese="false" pork="true">
+		<notes>none  </notes>
+  </attendee>
+
+	<attendee name="Roger Foye" badge_type="Staff" badge_number="475" no_cheese="false">
+  </attendee>
+
+	<attendee name="Elyse Krumbein" badge_type="Staff" badge_number="424" no_cheese="false" gluten="true" vegetarian="true" pork="true">
+	  <notes>No mushrooms. Although I can't have a sandwich, peanut butter on rice would be great. Oh, but Costco sells Udi's bread now.
+	  </notes>
+  </attendee>
+
+	<attendee name="Sebastian Medina" badge_type="Staff" badge_number="371" no_cheese="false">
+  </attendee>
+
+	<attendee name="Alicia Mortensen" badge_type="Staff" badge_number="130" no_cheese="false">
+  </attendee>
+
+	<attendee name="Aaron Churchill" badge_type="Staff" badge_number="92" no_cheese="false">
+  </attendee>
+
+	<attendee name="Matt Zeher" badge_type="Staff" badge_number="433" no_cheese="false">
+  </attendee>
+
+	<attendee name="Derek Williams" badge_type="Staff" badge_number="446" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jocelyn Fulljames" badge_type="Staff" badge_number="457" no_cheese="false">
+		<notes>No almonds or pecans please.  </notes>
+  </attendee>
+
+	<attendee name="Richard Baldovin" badge_type="Staff" badge_number="448" no_cheese="false">
+  </attendee>
+
+	<attendee name="John George" badge_type="Staff" badge_number="331" no_cheese="false">
+  </attendee>
+
+	<attendee name="Brad Vanderhoef" badge_type="Staff" badge_number="181" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jeffrey Roberts" badge_type="Staff" badge_number="265" no_cheese="false">
+		<notes>Allergic to hazelnut.  </notes>
+  </attendee>
+
+	<attendee name="Max Sprinkle" badge_type="Staff" badge_number="341" no_cheese="false">
+	  <notes>Beef - it's not for dinner. neither are tomatoes, but I can pick those off if need be.
+	  </notes>
+  </attendee>
+
+	<attendee name="John Yamine" badge_type="Staff" badge_number="216" no_cheese="false">
+  </attendee>
+
+	<attendee name="Mark Carr" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Conor Fogarty" badge_type="Staff" badge_number="247" no_cheese="false">
+  </attendee>
+
+	<attendee name="Vince Rosioli" badge_type="Staff" badge_number="482" no_cheese="false">
+  </attendee>
+
+	<attendee name="Larry Oji" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Austin Wintory" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Brad Llewllyn" badge_type="Staff" badge_number="365" no_cheese="false">
+  </attendee>
+
+	<attendee name="Sarah Zeiter" badge_type="Staff" badge_number="455" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jon Jafari" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Dan Behrens" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Carol Gobeyn" badge_type="Staff" badge_number="329" no_cheese="false">
+	  <notes>I am allergic to the bell peppers- green, red, orange...
+	  </notes>
+  </attendee>
+
+	<attendee name="Kyle Foster" badge_type="Staff" badge_number="276" no_cheese="false">
+  </attendee>
+
+	<attendee name="Mike Holmes" badge_type="Staff" badge_number="436" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jennifer Ganss" badge_type="Staff" badge_number="305" no_cheese="false">
+  </attendee>
+
+	<attendee name="William Strouse" badge_type="Staff" badge_number="79" no_cheese="false">
+  </attendee>
+
+	<attendee name="Trevor Williams" badge_type="Staff" badge_number="225" no_cheese="false">
+		<notes>Peanuts and vegetable peas  </notes>
+  </attendee>
+
+	<attendee name="Ian Underwood" badge_type="Staff" badge_number="20" no_cheese="false" vegan="true" pork="true">
+  </attendee>
+
+	<attendee name="Karen Lasorso" badge_type="Staff" badge_number="266" no_cheese="false">
+  </attendee>
+
+	<attendee name="Nikita Iszard" badge_type="Staff" badge_number="393" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jay Koby" badge_type="Staff" badge_number="135" no_cheese="false">
+  </attendee>
+
+	<attendee name="Adam Hedges" badge_type="Staff" badge_number="485" no_cheese="false">
+  </attendee>
+
+	<attendee name="Gregory Murnane" badge_type="Staff" badge_number="269" no_cheese="false">
+  </attendee>
+
+	<attendee name="Francis Nyarku" badge_type="Staff" badge_number="257" no_cheese="false">
+  </attendee>
+
+	<attendee name="William Kennard" badge_type="Staff" badge_number="101" no_cheese="false">
+		<notes>No MSG, No Peaches  </notes>
+  </attendee>
+
+	<attendee name="Michael Allen" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Garrett Colegate" badge_type="Staff" badge_number="113" no_cheese="false">
+		<notes>sea food allergies  </notes>
+  </attendee>
+
+	<attendee name="Ryquan Wheeler" badge_type="Staff" badge_number="184" no_cheese="false">
+  </attendee>
+
+	<attendee name="Lealin Queen" badge_type="Staff" badge_number="272" no_cheese="false">
+	  <notes>Only allowed to eat food with smiley faces integrated into the food
+	  </notes>
+  </attendee>
+
+	<attendee name="Tina Klein-Lebbink" badge_type="Staff" badge_number="335" no_cheese="false">
+  </attendee>
+
+	<attendee name="Stephanie Prader" badge_type="Staff" badge_number="12" no_cheese="false">
+  </attendee>
+
+	<attendee name="Michael Flynn" badge_type="Staff" badge_number="131" no_cheese="false">
+  </attendee>
+
+	<attendee name="Adam Nedzweckas" badge_type="Staff" badge_number="245" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jay Buechler" badge_type="Staff" badge_number="401" no_cheese="false">
+  </attendee>
+
+	<attendee name="Joseph Statkus" badge_type="Staff" badge_number="387" no_cheese="false">
+  </attendee>
+
+	<attendee name="Shawn Morgan" badge_type="Staff" badge_number="142" no_cheese="false">
+		<notes>I eat all the things  </notes>
+  </attendee>
+
+	<attendee name="Karolyne Semon" badge_type="Staff" badge_number="171" no_cheese="true" vegan="true" dairy="true" pork="true">
+  </attendee>
+
+	<attendee name="Rene Gobeyn" badge_type="Staff" badge_number="37" no_cheese="false">
+  </attendee>
+
+	<attendee name="Avery Bailey" badge_type="Staff" badge_number="164" no_cheese="false">
+		<notes>None!  </notes>
+  </attendee>
+
+	<attendee name="Dominic Apodaca" badge_type="Staff" badge_number="428" no_cheese="false">
+  </attendee>
+
+	<attendee name="Diane Link" badge_type="Attendee" now_eligible="false" no_cheese="false">
+  </attendee>
+
+	<attendee name="Andrew Brown" badge_type="Staff" badge_number="123" no_cheese="false">
+  </attendee>
+
+	<attendee name="Tim MacNeil" badge_type="Staff" badge_number="61" no_cheese="false">
+  </attendee>
+
+	<attendee name="Craig Minter" badge_type="Staff" badge_number="311" no_cheese="false">
+  </attendee>
+
+	<attendee name="Sam Galizia" badge_type="Staff" badge_number="494" no_cheese="false">
+  </attendee>
+
+	<attendee name="Liz Richardson" badge_type="Staff" badge_number="478" no_cheese="false">
+  </attendee>
+
+	<attendee name="Eric Lappe" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Shane Kelly" badge_type="Staff" badge_number="211" no_cheese="false">
+  </attendee>
+
+	<attendee name="Will Rivera" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Greg Chaprnka" badge_type="Staff" badge_number="309" no_cheese="false">
+  </attendee>
+
+	<attendee name="Emily Kiraly" badge_type="Staff" badge_number="437" no_cheese="false" dairy="true" vegetarian="true" pork="true">
+  </attendee>
+
+	<attendee name="Craig Skistmas" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Chris Beazell" badge_type="Staff" badge_number="396" no_cheese="false">
+  </attendee>
+
+	<attendee name="Joe Christopher" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Judy Al-Ahmary" badge_type="Staff" badge_number="204" no_cheese="false">
+  </attendee>
+
+	<attendee name="Katelynn Church" badge_type="Staff" badge_number="295" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kaia Sorensen" badge_type="Staff" badge_number="193" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jason Williams" badge_type="Staff" badge_number="228" no_cheese="false">
+  </attendee>
+
+	<attendee name="Damian Mojica" badge_type="Staff" badge_number="431" no_cheese="false">
+  </attendee>
+
+	<attendee name="Janis Neville" badge_type="Staff" badge_number="64" no_cheese="false">
+	  <notes>No avocados. Some lactose intolerance, but nothing extreme.
+	  </notes>
+  </attendee>
+
+	<attendee name="Heidi O&#39;Ferrall" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Fiona Wren Allen" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Thomas O&#39;Brien" badge_type="Staff" badge_number="242" no_cheese="true">
+  </attendee>
+
+	<attendee name="Steve Buechler" badge_type="Staff" badge_number="50" no_cheese="false">
+  </attendee>
+
+	<attendee name="Chidi Onyeador" badge_type="Staff" badge_number="191" no_cheese="true">
+		<notes>None  </notes>
+  </attendee>
+
+	<attendee name="Mick Lauer" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Shane Banzhaf" badge_type="Staff" badge_number="302" no_cheese="false">
+  </attendee>
+
+	<attendee name="Stephen Burkett" badge_type="Staff" badge_number="124" no_cheese="false">
+  </attendee>
+
+	<attendee name="Greg Cale" badge_type="Staff" badge_number="109" no_cheese="false" vegetarian="true" pork="true">
+  </attendee>
+
+	<attendee name="Aaron Patterson" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Monica Franco" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Richard Lemaire" badge_type="Staff" badge_number="84" no_cheese="false">
+  </attendee>
+
+	<attendee name="Justin Silverman" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jason Roop" badge_type="Staff" badge_number="435" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jared Knabenbauer" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Deborah Gaynor" badge_type="Staff" badge_number="445" no_cheese="false">
+  </attendee>
+
+	<attendee name="Whitney Gould" badge_type="Staff" badge_number="497" no_cheese="false">
+  </attendee>
+
+	<attendee name="Antigonus Jarrett" badge_type="Staff" badge_number="24" no_cheese="false">
+  </attendee>
+
+	<attendee name="Sean Kerrigan" badge_type="Staff" badge_number="496" no_cheese="true">
+  </attendee>
+
+	<attendee name="Joel Gonzales" badge_type="Staff" badge_number="408" no_cheese="false">
+  </attendee>
+
+	<attendee name="Chad Woods" badge_type="Staff" badge_number="270" no_cheese="false">
+  </attendee>
+
+	<attendee name="Liz Owen" badge_type="Staff" badge_number="147" no_cheese="false">
+  </attendee>
+
+	<attendee name="Matt Miller" badge_type="Staff" badge_number="148" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jake Kaufman" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="James Sadler" badge_type="Staff" badge_number="141" no_cheese="false">
+  </attendee>
+
+	<attendee name="Lauren Chambers" badge_type="Staff" badge_number="292" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kele Mogotsi" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Nichole Lee" badge_type="Staff" badge_number="117" no_cheese="false">
+		<notes>Shellfish  </notes>
+  </attendee>
+
+	<attendee name="Jordan Alsaqa" badge_type="Staff" badge_number="146" no_cheese="false" pork="true">
+  </attendee>
+
+	<attendee name="Mike Wagner" badge_type="Staff" badge_number="476" no_cheese="false">
+  </attendee>
+
+	<attendee name="Diana Rotter" badge_type="Staff" badge_number="151" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jillien Conneen" badge_type="Staff" badge_number="56" no_cheese="true">
+	  <notes>I would like the occasional veggie meal, I need the extra fiber.
+	  </notes>
+  </attendee>
+
+	<attendee name="Jonathan Ellis" badge_type="Staff" badge_number="254" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jen Cortez" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Edward Richardson" badge_type="Staff" badge_number="190" no_cheese="false">
+  </attendee>
+
+	<attendee name="Andrew Jafari" badge_type="Staff" badge_number="188" no_cheese="false">
+		<notes>No food allergies thank the heavens  </notes>
+  </attendee>
+
+	<attendee name="Adam Bullock" badge_type="Staff" badge_number="155" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ashley Hutchinson" badge_type="Staff" badge_number="88" no_cheese="false">
+  </attendee>
+
+	<attendee name="Danielle Riccio" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Devon Riley" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Mark Gecolea" badge_type="Staff" badge_number="70" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jillian Aversa" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jomel Felder" badge_type="Staff" badge_number="388" no_cheese="false">
+  </attendee>
+
+	<attendee name="Andrew Johnson" badge_type="Staff" badge_number="479" no_cheese="false">
+  </attendee>
+
+	<attendee name="Monroe Anderson" badge_type="Staff" badge_number="185" no_cheese="false">
+  </attendee>
+
+	<attendee name="Steven Sears" badge_type="Staff" badge_number="328" no_cheese="false">
+  </attendee>
+
+	<attendee name="Peter Hirschberg" badge_type="Staff" badge_number="66" no_cheese="false">
+  </attendee>
+
+	<attendee name="James Simonetti" badge_type="Supporter" badge_number="1084" now_eligible="false" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ian McCombs" badge_type="Staff" badge_number="59" no_cheese="false">
+  </attendee>
+
+	<attendee name="Alicia Kundratic" badge_type="Staff" badge_number="260" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jeremy Pierce" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Louis Wilkerson" badge_type="Staff" badge_number="14" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kevin Strick" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Eric Leigh" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kevin Sonney" badge_type="Staff" badge_number="321" no_cheese="false">
+	  <notes>I am a type-2 Diabetic, so need to avoid HFCS and high-sugar foods.
+	  </notes>
+  </attendee>
+
+	<attendee name="Jonathan Orbach" badge_type="Staff" badge_number="442" no_cheese="false">
+  </attendee>
+
+	<attendee name="Troy D Patterson" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Joel Attanasio" badge_type="Staff" badge_number="100" no_cheese="false">
+		<notes>n/a  </notes>
+  </attendee>
+
+	<attendee name="Zach Skigen" badge_type="Staff" badge_number="158" no_cheese="false">
+  </attendee>
+
+	<attendee name="Devon Ritter" badge_type="Staff" badge_number="458" no_cheese="false">
+  </attendee>
+
+	<attendee name="Brent Smart" badge_type="Staff" badge_number="25" no_cheese="false">
+		<notes>None.  </notes>
+  </attendee>
+
+	<attendee name="Victoria Misslin" badge_type="Staff" badge_number="370" no_cheese="false">
+		<notes>No restrictions, but love extra fruit and veggies!  </notes>
+  </attendee>
+
+	<attendee name="Mike Rosson" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jack Boyd" badge_type="Staff" badge_number="7" no_cheese="false" vegetarian="true" pork="true">
+		<notes>Just Beer and Wine  </notes>
+  </attendee>
+
+	<attendee name="Andrew Elliott" badge_type="Staff" badge_number="248" no_cheese="false">
+		<notes>None  </notes>
+  </attendee>
+
+	<attendee name="Daniel Davis" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Dan Macmillian" badge_type="Staff" badge_number="440" no_cheese="false">
+  </attendee>
+
+	<attendee name="Justin Porter" badge_type="Staff" badge_number="259" no_cheese="false">
+  </attendee>
+
+	<attendee name="Garrett Boone" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Clinton King" badge_type="Staff" badge_number="85" no_cheese="false">
+  </attendee>
+
+	<attendee name="Caramon Stanley" badge_type="Staff" badge_number="293" no_cheese="false">
+  </attendee>
+
+	<attendee name="Matt Weiss" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Orvie Thumel" badge_type="Staff" badge_number="19" no_cheese="false">
+  </attendee>
+
+	<attendee name="David Lunsford" badge_type="Staff" badge_number="159" no_cheese="false">
+  </attendee>
+
+	<attendee name="Michael Saunders" badge_type="Staff" badge_number="421" no_cheese="false">
+  </attendee>
+
+	<attendee name="Emily Feder" badge_type="Staff" badge_number="53" no_cheese="false">
+  </attendee>
+
+	<attendee name="Nikki Salapa" badge_type="Attendee" now_eligible="false" no_cheese="false">
+  </attendee>
+
+	<attendee name="Vashti Brummett" badge_type="Staff" badge_number="398" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ian Turner" badge_type="Attendee" now_eligible="false" no_cheese="true" pork="true">
+  </attendee>
+
+	<attendee name="Edward Brown" badge_type="Staff" badge_number="277" no_cheese="false">
+		<notes>I have no dietary restrictions.  </notes>
+  </attendee>
+
+	<attendee name="Dan Grape" badge_type="Staff" badge_number="439" no_cheese="false">
+  </attendee>
+
+	<attendee name="Abdul Hadi Sid Ahmed" badge_type="Staff" badge_number="417" no_cheese="false" pork="true">
+  </attendee>
+
+	<attendee name="Joram Stanley" badge_type="Staff" badge_number="310" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jacob Parr" badge_type="Staff" badge_number="444" no_cheese="false">
+  </attendee>
+
+	<attendee name="Will Henson" badge_type="Staff" badge_number="57" no_cheese="false">
+  </attendee>
+
+	<attendee name="Elijah Whitehouse" badge_type="Staff" badge_number="447" no_cheese="false">
+  </attendee>
+
+	<attendee name="Anthony Capobianco" badge_type="Staff" badge_number="195" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ronald Strong" badge_type="Staff" badge_number="178" no_cheese="false">
+  </attendee>
+
+	<attendee name="Marlane King" badge_type="Staff" badge_number="369" no_cheese="false">
+  </attendee>
+
+	<attendee name="Charles Copper" badge_type="Staff" badge_number="344" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jessica Ansel" badge_type="Attendee" now_eligible="false" no_cheese="false">
+  </attendee>
+
+	<attendee name="Clinton Strawderman" badge_type="Staff" badge_number="63" no_cheese="false">
+  </attendee>
+
+	<attendee name="Gabriel Giron" badge_type="Supporter" badge_number="1336" now_eligible="false" no_cheese="true">
+  </attendee>
+
+	<attendee name="Darin Cha" badge_type="Staff" badge_number="186" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kat Pawlowski" badge_type="Staff" badge_number="425" no_cheese="false" vegetarian="true" pork="true">
+  </attendee>
+
+	<attendee name="Ross Meade" badge_type="Staff" badge_number="231" no_cheese="false">
+  </attendee>
+
+	<attendee name="Robin Palm" badge_type="Staff" badge_number="273" no_cheese="false">
+  </attendee>
+
+	<attendee name="Bob Earl" badge_type="Staff" badge_number="22" no_cheese="false">
+		<notes>None  </notes>
+  </attendee>
+
+	<attendee name="Tim Houston" badge_type="Staff" badge_number="206" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jessica Foster" badge_type="Staff" badge_number="404" no_cheese="false">
+  </attendee>
+
+	<attendee name="Douglas Miller" badge_type="Staff" badge_number="134" no_cheese="false">
+  </attendee>
+
+	<attendee name="Margaret Bumby" badge_type="Staff" badge_number="346" no_cheese="false">
+	  <notes>No Eggplant. No Bell Pepper. (Hot peppers are fine.)
+	  </notes>
+  </attendee>
+
+	<attendee name="Robert Wilfong" badge_type="Staff" badge_number="229" no_cheese="false">
+		<notes>Feed me anything:)  </notes>
+  </attendee>
+
+	<attendee name="Joey Mariano" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Joseph Yamine" badge_type="Staff" badge_number="30" no_cheese="false">
+  </attendee>
+
+	<attendee name="Max Gleason" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Mark Murnane" badge_type="Staff" badge_number="252" no_cheese="false">
+		<notes>I am mildly allergic to watermelon and avocado.  </notes>
+  </attendee>
+
+	<attendee name="Ben Seburn" badge_type="Staff" badge_number="29" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jennifer Wall" badge_type="Staff" badge_number="202" no_cheese="false">
+  </attendee>
+
+	<attendee name="Stephen Tasker" badge_type="Staff" badge_number="74" no_cheese="false" pork="true">
+		<notes>Penicillin  </notes>
+  </attendee>
+
+	<attendee name="Jonathan Harker" badge_type="Staff" badge_number="68" no_cheese="false">
+		<notes>No mushrooms  </notes>
+  </attendee>
+
+	<attendee name="Denzel Wimbush" badge_type="Staff" badge_number="379" no_cheese="false">
+  </attendee>
+
+	<attendee name="Erica Patoka" badge_type="Staff" badge_number="44" no_cheese="false">
+  </attendee>
+
+	<attendee name="Matthew Conn" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Christopher Lawrence" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Justin Maramba" badge_type="Staff" badge_number="294" no_cheese="false">
+  </attendee>
+
+	<attendee name="Daniel Horneber" badge_type="Staff" badge_number="358" no_cheese="false">
+  </attendee>
+
+	<attendee name="Joshua Conway" badge_type="Staff" badge_number="449" no_cheese="false">
+  </attendee>
+
+	<attendee name="Martin O&#39;Connor" badge_type="Staff" badge_number="414" no_cheese="false">
+  </attendee>
+
+	<attendee name="Mike Stephenson" badge_type="Staff" badge_number="339" no_cheese="false">
+  </attendee>
+
+	<attendee name="Aaron Vallejo" badge_type="Staff" badge_number="363" no_cheese="false" vegetarian="true" pork="true">
+  </attendee>
+
+	<attendee name="Danielle Pomfrey" badge_type="Staff" badge_number="13" no_cheese="false">
+  </attendee>
+
+	<attendee name="Mike Sgroi" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Tony Difatta" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Cleon Chick" badge_type="Staff" badge_number="21" no_cheese="false">
+  </attendee>
+
+	<attendee name="David Autovino" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="David Gauntlett" badge_type="Staff" badge_number="307" no_cheese="false">
+  </attendee>
+
+	<attendee name="Nick Sgroi" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Allison Ruby" badge_type="Staff" badge_number="303" no_cheese="false">
+  </attendee>
+
+	<attendee name="Marc Lopez" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ryan Berkheimer" badge_type="Attendee" now_eligible="false" no_cheese="false">
+  </attendee>
+
+	<attendee name="Connie Seburn" badge_type="Staff" badge_number="400" no_cheese="false">
+		<notes>diabetic  </notes>
+  </attendee>
+
+	<attendee name="Jesse Jarvis" badge_type="Staff" badge_number="308" no_cheese="true">
+  </attendee>
+
+	<attendee name="Reed Susie" badge_type="Staff" badge_number="454" no_cheese="true">
+  </attendee>
+
+	<attendee name="Jeff Nemeth" badge_type="Supporter" badge_number="1203" now_eligible="false" no_cheese="false">
+  </attendee>
+
+	<attendee name="Chris Jennings" badge_type="Staff" badge_number="411" no_cheese="false">
+  </attendee>
+
+	<attendee name="John Roller" badge_type="Attendee" now_eligible="false" no_cheese="false" pork="true">
+  </attendee>
+
+	<attendee name="Brandon Hood" badge_type="Staff" badge_number="42" no_cheese="false">
+  </attendee>
+
+	<attendee name="Sean Quinn" badge_type="Staff" badge_number="481" no_cheese="false">
+	  <notes>Low/no carb options please! (Salads are good, but sandwiches are bread)
+	  </notes>
+  </attendee>
+
+	<attendee name="Christopher Blancato" badge_type="Staff" badge_number="215" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ryan Case" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Yale Spector" badge_type="Staff" badge_number="219" no_cheese="true">
+  </attendee>
+
+	<attendee name="Victoria Earl" badge_type="Staff" badge_number="6" no_cheese="false">
+		<notes>Allergic to eggs.  </notes>
+  </attendee>
+
+	<attendee name="Aaron Clark" badge_type="Staff" badge_number="168" no_cheese="false">
+  </attendee>
+
+	<attendee name="Joe Rounds" badge_type="Staff" badge_number="240" no_cheese="false">
+	  <notes>No seafood. Lactose intolerant. Allergic to sulfites.
+	  </notes>
+  </attendee>
+
+	<attendee name="Justin Johnston" badge_type="Staff" badge_number="150" no_cheese="false">
+  </attendee>
+
+	<attendee name="Harris Surles" badge_type="Staff" badge_number="274" no_cheese="false">
+  </attendee>
+
+	<attendee name="Adam Bowman" badge_type="Attendee" now_eligible="false" no_cheese="false">
+  </attendee>
+
+	<attendee name="Lauren Ekkebus" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Michael Giansante" badge_type="Attendee" now_eligible="true" no_cheese="false">
+		<notes>im good.  </notes>
+  </attendee>
+
+	<attendee name="Nathan Litts" badge_type="Staff" badge_number="489" no_cheese="false">
+  </attendee>
+
+	<attendee name="Lance Cortez" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jennifer Truss" badge_type="Staff" badge_number="76" no_cheese="false">
+  </attendee>
+
+	<attendee name="Dorian Luviano" badge_type="Staff" badge_number="380" no_cheese="false">
+		<notes>n/a  </notes>
+  </attendee>
+
+	<attendee name="Nicholas Goebel" badge_type="Staff" badge_number="301" no_cheese="false">
+  </attendee>
+
+	<attendee name="Stefan Ilie" badge_type="Staff" badge_number="224" no_cheese="false">
+  </attendee>
+
+	<attendee name="Suzy Berhow" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Joe Crittenden" badge_type="Staff" badge_number="438" no_cheese="false">
+  </attendee>
+
+	<attendee name="Matthew Squibb" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Joe Kampman" badge_type="Staff" badge_number="96" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jacqueline Bryk" badge_type="Staff" badge_number="456" no_cheese="false">
+  </attendee>
+
+	<attendee name="Milton Jones" badge_type="Staff" badge_number="214" no_cheese="false">
+  </attendee>
+
+	<attendee name="John Christy" badge_type="Staff" badge_number="279" no_cheese="false">
+  </attendee>
+
+	<attendee name="Andrew Joseph Austin" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Brian Wecht" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ian Webb" badge_type="Staff" badge_number="337" no_cheese="false">
+  </attendee>
+
+	<attendee name="Marguerite Brown" badge_type="Staff" badge_number="296" no_cheese="false">
+  </attendee>
+
+	<attendee name="Adam Kelly" badge_type="Staff" badge_number="154" no_cheese="false">
+  </attendee>
+
+	<attendee name="Raheem Jarbo" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Stephen Jenks" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Bradley Pearce" badge_type="Staff" badge_number="459" no_cheese="false">
+		<notes>No restrictions  </notes>
+  </attendee>
+
+	<attendee name="Matthew Gaither" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Paul Thomas Owen" badge_type="Staff" badge_number="250" no_cheese="false">
+  </attendee>
+
+	<attendee name="Matthew Crainer" badge_type="Staff" badge_number="483" no_cheese="false">
+		<notes>Shellfish  </notes>
+  </attendee>
+
+	<attendee name="Spencer Neiderlander" badge_type="Staff" badge_number="487" no_cheese="false">
+  </attendee>
+
+	<attendee name="Gregory Mattox" badge_type="Staff" badge_number="361" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jaimie Anderson" badge_type="Attendee" now_eligible="false" no_cheese="false">
+  </attendee>
+
+	<attendee name="Mikhail Ivanov" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Brett Jackson" badge_type="Staff" badge_number="133" no_cheese="false">
+  </attendee>
+
+	<attendee name="Dan Eardley" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Carol Lu" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Paul Weinstein" badge_type="Staff" badge_number="461" no_cheese="false" vegetarian="true" pork="true">
+		<notes>I do eat fish/seafood, but no other meat. Thanks.  </notes>
+  </attendee>
+
+	<attendee name="Michael Zucker" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jose Felix" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Carla Voorhees" badge_type="Staff" badge_number="39" no_cheese="false" gluten="true">
+  </attendee>
+
+	<attendee name="Juese Cutler" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Robert Swackhamer" badge_type="Staff" badge_number="249" no_cheese="false">
+  </attendee>
+
+	<attendee name="Dino Lionetti" badge_type="Staff" badge_number="462" no_cheese="false">
+  </attendee>
+
+	<attendee name="Bunny Smith" badge_type="Staff" badge_number="17" no_cheese="false" gluten="true">
+		<notes>I love you guys <3  </notes>
+  </attendee>
+
+	<attendee name="Heidi Green" badge_type="Staff" badge_number="222" no_cheese="false">
+  </attendee>
+
+	<attendee name="David Stein" badge_type="Staff" badge_number="321" no_cheese="false">
+		<notes>None  </notes>
+  </attendee>
+
+	<attendee name="Patrick Wallace-Tabb" badge_type="Staff" badge_number="333" no_cheese="false">
+  </attendee>
+
+	<attendee name="Mark Mucciarone Jr" badge_type="Staff" badge_number="129" no_cheese="false">
+  </attendee>
+
+	<attendee name="Steve Smith" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Gregory Sleichter" badge_type="Staff" badge_number="127" no_cheese="false">
+  </attendee>
+
+	<attendee name="Heather Spencer" badge_type="Staff" badge_number="207" no_cheese="false">
+  </attendee>
+
+	<attendee name="Chris Anderson" badge_type="Staff" badge_number="463" no_cheese="false">
+  </attendee>
+
+	<attendee name="Devin Nixon" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Andrew Reshefsky" badge_type="Staff" badge_number="67" no_cheese="false" pork="true">
+  </attendee>
+
+	<attendee name="Meagan Wallace-Tabb" badge_type="Staff" badge_number="332" no_cheese="true">
+	  <notes>I am allergic to cumin i must know if it is in any foods if it is listed as Spices on the ingredients assume that is contains cumin and i cant have it!
+	  </notes>
+  </attendee>
+
+	<attendee name="Josh Whelchel" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Neil Goldberg" badge_type="Attendee" now_eligible="false" no_cheese="false">
+		<notes>None  </notes>
+  </attendee>
+
+	<attendee name="Thomas Stidman" badge_type="Staff" badge_number="153" no_cheese="false">
+  </attendee>
+
+	<attendee name="Adam Joseph Ward" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Brian Roper" badge_type="Staff" badge_number="427" no_cheese="false">
+  </attendee>
+
+	<attendee name="Francis Acupan" badge_type="Staff" badge_number="236" no_cheese="false">
+  </attendee>
+
+	<attendee name="Joe DiNozzi" badge_type="Staff" badge_number="170" no_cheese="false">
+  </attendee>
+
+	<attendee name="Brendan Becker" badge_type="Staff" badge_number="1" no_cheese="false">
+  </attendee>
+
+	<attendee name="Zach Fifield" badge_type="Staff" badge_number="355" no_cheese="false">
+  </attendee>
+
+	<attendee name="Matthew Reid" badge_type="Staff" badge_number="94" no_cheese="false">
+  </attendee>
+
+	<attendee name="Matt Farkas" badge_type="Staff" badge_number="237" no_cheese="false">
+  </attendee>
+
+	<attendee name="Tim Stowell" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Matthew Rolen" badge_type="Staff" badge_number="145" no_cheese="false">
+  </attendee>
+
+	<attendee name="Cindy Raggo" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Angelinia Boyer" badge_type="Staff" badge_number="104" no_cheese="false">
+  </attendee>
+
+	<attendee name="Rich Lepore" badge_type="Staff" badge_number="138" no_cheese="false">
+  </attendee>
+
+	<attendee name="Richard Simpson" badge_type="Staff" badge_number="213" no_cheese="false">
+  </attendee>
+
+	<attendee name="Adam Chase" badge_type="Staff" badge_number="11" no_cheese="true">
+  </attendee>
+
+	<attendee name="Dan Avidan" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Thomas Hyre" badge_type="Staff" badge_number="34" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kevin Smets" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Magaly Jellerson" badge_type="Staff" badge_number="469" no_cheese="false">
+  </attendee>
+
+	<attendee name="Catherine Engel" badge_type="Staff" badge_number="383" no_cheese="true">
+  </attendee>
+
+	<attendee name="Greg Cotton" badge_type="Staff" badge_number="16" no_cheese="false">
+  </attendee>
+
+	<attendee name="Tronster Hartley" badge_type="Staff" badge_number="47" no_cheese="false">
+  </attendee>
+
+	<attendee name="Roger Hicks" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Nicholas Moore" badge_type="Staff" badge_number="374" no_cheese="false">
+  </attendee>
+
+	<attendee name="Justin Parker" badge_type="Staff" badge_number="180" no_cheese="false">
+  </attendee>
+
+	<attendee name="Erin McQuisten" badge_type="Staff" badge_number="392" no_cheese="false">
+  </attendee>
+
+	<attendee name="John Pham" badge_type="Staff" badge_number="169" no_cheese="false">
+  </attendee>
+
+	<attendee name="Keith Sykes" badge_type="Staff" badge_number="493" no_cheese="false">
+  </attendee>
+
+	<attendee name="Stephanie Haarsma" badge_type="Staff" badge_number="99" no_cheese="false">
+		<notes>Nope  </notes>
+  </attendee>
+
+	<attendee name="Tim Waters" badge_type="Staff" badge_number="412" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kelsey Lehr" badge_type="Staff" badge_number="470" no_cheese="false">
+  </attendee>
+
+	<attendee name="Robert Scullin" badge_type="Staff" badge_number="71" no_cheese="false">
+  </attendee>
+
+	<attendee name="James Griffith" badge_type="Staff" badge_number="126" no_cheese="false">
+  </attendee>
+
+	<attendee name="Justin Jackson" badge_type="Staff" badge_number="480" no_cheese="false" vegan="true" pork="true">
+  </attendee>
+
+	<attendee name="Colin Morin" badge_type="Staff" badge_number="275" no_cheese="false">
+  </attendee>
+
+	<attendee name="Michael Licisyn" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Leigh Alexander" badge_type="Staff" badge_number="402" no_cheese="false">
+  </attendee>
+
+	<attendee name="Bernard Klein" badge_type="Staff" badge_number="149" no_cheese="false" gluten="true">
+		<notes>Gluten and Shellfish  </notes>
+  </attendee>
+
+	<attendee name="Barnaby Yeh" badge_type="Staff" badge_number="395" no_cheese="false" vegetarian="true" pork="true">
+  </attendee>
+
+	<attendee name="Tom Davis" badge_type="Staff" no_cheese="false">
+  </attendee>
+
+	<attendee name="Holly Hunt" badge_type="Staff" badge_number="477" no_cheese="false">
+  </attendee>
+
+	<attendee name="Andreas Tsialikas" badge_type="Staff" badge_number="278" no_cheese="false">
+  </attendee>
+
+	<attendee name="Milissa Mackey" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kat Huffman" badge_type="Staff" badge_number="407" no_cheese="false">
+  </attendee>
+
+	<attendee name="Alex Cutlip" badge_type="Staff" badge_number="40" no_cheese="false">
+  </attendee>
+
+	<attendee name="Elizabeth Smith" badge_type="Staff" badge_number="368" no_cheese="false">
+  </attendee>
+
+	<attendee name="Robert V Aldrich" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Richard Moore" badge_type="Staff" badge_number="409" no_cheese="false">
+  </attendee>
+
+	<attendee name="Richard Bass" badge_type="Supporter" badge_number="1001" now_eligible="false" no_cheese="false">
+  </attendee>
+
+	<attendee name="Morgan Tucker" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Alexander Sobotka" badge_type="Staff" badge_number="227" no_cheese="false">
+  </attendee>
+
+	<attendee name="David Boyd" badge_type="Staff" badge_number="65" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kevin Ragone" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Andrew Ferrio" badge_type="Staff" badge_number="378" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kyle Murdock" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Lauren Kerwell" badge_type="Staff" badge_number="253" no_cheese="false">
+  </attendee>
+
+	<attendee name="James Ronald" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Adam Stackhouse" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Karen Vana" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jared Wolber" badge_type="Staff" badge_number="223" no_cheese="false">
+  </attendee>
+
+	<attendee name="Eleanor Troup" badge_type="Staff" badge_number="340" no_cheese="true" dairy="true">
+  </attendee>
+
+	<attendee name="Amy English" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Joseph Retener" badge_type="Staff" badge_number="288" no_cheese="false">
+		<notes>I have no dietary restrictions.  </notes>
+  </attendee>
+
+	<attendee name="Lee Fenner" badge_type="Staff" badge_number="418" no_cheese="false">
+  </attendee>
+
+	<attendee name="John Delia" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Geoffrey Benedict" badge_type="Staff" badge_number="110" no_cheese="false">
+  </attendee>
+
+	<attendee name="Mike Green" badge_type="Staff" badge_number="488" no_cheese="false">
+  </attendee>
+
+	<attendee name="James Cole" badge_type="Staff" badge_number="139" no_cheese="false">
+  </attendee>
+
+	<attendee name="Zach Bonaker" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kasi Frost" badge_type="Staff" badge_number="78" no_cheese="false" vegetarian="true" pork="true">
+		<notes>no squash/celery/meat  </notes>
+  </attendee>
+
+	<attendee name="Matthew Mercer" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Devon Courtwright" badge_type="Staff" badge_number="23" no_cheese="false">
+  </attendee>
+
+	<attendee name="Craig Pearson" badge_type="Staff" badge_number="45" no_cheese="false">
+  </attendee>
+
+	<attendee name="Darin Jorgensen" badge_type="Staff" badge_number="391" no_cheese="false">
+		<notes>Allergic to fish  </notes>
+  </attendee>
+
+	<attendee name="Chris Knott" badge_type="Staff" badge_number="267" no_cheese="false">
+  </attendee>
+
+	<attendee name="Erik Morton" badge_type="Staff" badge_number="471" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jason Robinson" badge_type="Staff" badge_number="410" no_cheese="false">
+  </attendee>
+
+	<attendee name="Peter Quattrociocchi III" badge_type="Staff" badge_number="450" no_cheese="false">
+  </attendee>
+
+	<attendee name="Dustin East" badge_type="Staff" badge_number="49" no_cheese="false">
+  </attendee>
+
+	<attendee name="David Lloyd" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Daniel Hill" badge_type="Staff" badge_number="48" no_cheese="false">
+  </attendee>
+
+	<attendee name="Shaun Wittenburg" badge_type="Staff" badge_number="200" no_cheese="false">
+		<notes>I am mildly allergic to strawberries.  </notes>
+  </attendee>
+
+	<attendee name="Guinevere Norman" badge_type="Staff" badge_number="283" no_cheese="false">
+  </attendee>
+
+	<attendee name="Brent Lilley" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Connor Pelkey" badge_type="Staff" badge_number="238" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jarrett Burns" badge_type="Staff" badge_number="255" no_cheese="false">
+		<notes>None  </notes>
+  </attendee>
+
+	<attendee name="Jeremy Gregor" badge_type="Staff" badge_number="490" no_cheese="false">
+  </attendee>
+
+	<attendee name="Skyler Wollschleger" badge_type="Staff" badge_number="264" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kwesi Andoh" badge_type="Staff" badge_number="172" no_cheese="false">
+  </attendee>
+
+	<attendee name="Alexander Brandon" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Andrew Shute" badge_type="Staff" badge_number="54" no_cheese="false">
+  </attendee>
+
+	<attendee name="Bradley Davis" badge_type="Staff" badge_number="386" no_cheese="false">
+  </attendee>
+
+	<attendee name="Shaina Flores" badge_type="Staff" badge_number="241" no_cheese="false">
+  </attendee>
+
+	<attendee name="Eric Carlstrom" badge_type="Staff" badge_number="504" no_cheese="false">
+  </attendee>
+
+	<attendee name="Dominic Cerquetti" badge_type="Staff" badge_number="2" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jamie Ryan Tyson" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Curtis Whitlow" badge_type="Staff" badge_number="176" no_cheese="false">
+  </attendee>
+
+	<attendee name="Stephen Nachtsheim" badge_type="Staff" badge_number="157" no_cheese="false">
+  </attendee>
+
+	<attendee name="Don Greger Jr" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="William Harshman" badge_type="Staff" badge_number="182" no_cheese="false">
+  </attendee>
+
+	<attendee name="Christopher Ratliff" badge_type="Staff" badge_number="196" no_cheese="false">
+  </attendee>
+
+	<attendee name="Amanda Appiarius" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jay Mosko" badge_type="Staff" badge_number="156" no_cheese="false">
+		<notes>None, just don't like mushrooms or olives.  </notes>
+  </attendee>
+
+	<attendee name="Ryan Stapleton" badge_type="Staff" badge_number="82" no_cheese="true" dairy="true">
+  </attendee>
+
+	<attendee name="Brandon Mullin" badge_type="Staff" badge_number="468" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jesse Tang" badge_type="Staff" badge_number="299" no_cheese="false">
+		<notes>none  </notes>
+  </attendee>
+
+	<attendee name="Brian Nern" badge_type="Attendee" now_eligible="false" no_cheese="false">
+  </attendee>
+
+	<attendee name="Emi Spicer" badge_type="Staff" badge_number="434" no_cheese="false">
+  </attendee>
+
+	<attendee name="Christopher Attia" badge_type="Staff" badge_number="136" no_cheese="false">
+  </attendee>
+
+	<attendee name="Gabriel Gutierrez" badge_type="Staff" badge_number="43" no_cheese="false">
+		<notes>Allergic to vegetables. :)  </notes>
+  </attendee>
+
+	<attendee name="Ben Neiderlander" badge_type="Staff" badge_number="486" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jonathan Harris" badge_type="Staff" badge_number="390" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jenna Chew" badge_type="Staff" badge_number="467" no_cheese="false">
+  </attendee>
+
+	<attendee name="Douglas Muth" badge_type="Staff" badge_number="334" no_cheese="false" vegetarian="true" pork="true">
+	  <notes>I'm not vegetarian, I'm pescetarian--I will gladly eat fish and just about everything else that is not meat or chicken.
+	  </notes>
+  </attendee>
+
+	<attendee name="Kristen (Kc) Minter" badge_type="Staff" badge_number="197" no_cheese="false">
+  </attendee>
+
+	<attendee name="Andrea Shafer" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Nicholas Marinelli" badge_type="Staff" badge_number="4" no_cheese="false">
+  </attendee>
+
+	<attendee name="James Pettigrew" badge_type="Staff" badge_number="33" no_cheese="false">
+  </attendee>
+
+	<attendee name="Eugene Lin" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ben Paddon" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Michael Currence" badge_type="Staff" badge_number="38" no_cheese="false">
+  </attendee>
+
+	<attendee name="Rance Reinhardt" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Mike Anthony" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Charles Lohr" badge_type="Staff" badge_number="144" no_cheese="false">
+  </attendee>
+
+	<attendee name="Krystle Herbert" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Eric Song" badge_type="Staff" badge_number="422" no_cheese="false">
+  </attendee>
+
+	<attendee name="Katharina Norman" badge_type="Staff" badge_number="289" no_cheese="true" dairy="true">
+  </attendee>
+
+	<attendee name="Gary Marachek" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Tom Hinchliffe" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Dan Kim" badge_type="Staff" badge_number="31" no_cheese="false">
+  </attendee>
+
+	<attendee name="James Landino" badge_type="Attendee" now_eligible="false" no_cheese="false">
+  </attendee>
+
+	<attendee name="Austin Rolen" badge_type="Staff" badge_number="108" no_cheese="false">
+  </attendee>
+
+	<attendee name="Travis Crumpler" badge_type="Staff" badge_number="218" no_cheese="false">
+  </attendee>
+
+	<attendee name="James Wilkerson" badge_type="Staff" badge_number="452" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jacob Dawson" badge_type="Staff" badge_number="327" no_cheese="false">
+  </attendee>
+
+	<attendee name="Peter English" badge_type="Staff" badge_number="187" no_cheese="false">
+  </attendee>
+
+	<attendee name="Lucas Santos-Basye" badge_type="Staff" badge_number="233" no_cheese="false">
+  </attendee>
+
+	<attendee name="Gabriel Roland" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="William Robey" badge_type="Staff" badge_number="366" no_cheese="false">
+  </attendee>
+
+	<attendee name="Sean Smith" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ian Ferguson" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Chris Yantek" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Mollie Kalaycio" badge_type="Attendee" now_eligible="false" no_cheese="false">
+  </attendee>
+
+	<attendee name="Michael Raynard" badge_type="Staff" badge_number="298" no_cheese="false">
+  </attendee>
+
+	<attendee name="Tony Majors" badge_type="Staff" badge_number="36" no_cheese="false">
+  </attendee>
+
+	<attendee name="Curtis Ware" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Cynthia Schatoff" badge_type="Staff" badge_number="72" no_cheese="false" vegetarian="true" pork="true">
+	  <notes>Allergic to peanuts and shellfish. Cannot eat any of the sandwich choices.
+	  </notes>
+  </attendee>
+
+	<attendee name="Darrin DeMarco" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jennifer Ludewig" badge_type="Staff" badge_number="376" no_cheese="false">
+  </attendee>
+
+	<attendee name="Frederick Rice" badge_type="Staff" badge_number="258" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kate Sutherlin McLeod" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Rebekah Webb" badge_type="Staff" badge_number="162" no_cheese="false" vegan="true" pork="true">
+  </attendee>
+
+	<attendee name="Jacob Denmark" badge_type="Staff" badge_number="384" no_cheese="false">
+		<notes>Allergic to Penicillin  </notes>
+  </attendee>
+
+	<attendee name="Michael Froede" badge_type="Staff" badge_number="128" no_cheese="false">
+  </attendee>
+
+	<attendee name="Maura Taylor" badge_type="Attendee" now_eligible="false" no_cheese="false">
+  </attendee>
+
+	<attendee name="Rachel Viola" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Robert Ashton" badge_type="Staff" badge_number="205" no_cheese="false">
+  </attendee>
+
+	<attendee name="Anthony Graham" badge_type="Staff" badge_number="112" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ian Nixon" badge_type="Staff" badge_number="55" no_cheese="false">
+  </attendee>
+
+	<attendee name="Chad Williams" badge_type="Staff" badge_number="46" no_cheese="false">
+  </attendee>
+
+	<attendee name="Chase Gutman" badge_type="Staff" badge_number="291" no_cheese="false">
+  </attendee>
+
+	<attendee name="James Walton" badge_type="Staff" badge_number="345" no_cheese="false">
+  </attendee>
+
+	<attendee name="Colette Fozard" badge_type="Staff" badge_number="10" no_cheese="false">
+  </attendee>
+
+	<attendee name="Gene Gallo" badge_type="Staff" badge_number="356" no_cheese="false">
+  </attendee>
+
+	<attendee name="Robert Pierce" badge_type="Staff" badge_number="426" no_cheese="false">
+  </attendee>
+
+	<attendee name="Maggie Allen" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Ryan Stevens" badge_type="Staff" badge_number="285" no_cheese="false">
+		<notes>I am allergic to shellfish  </notes>
+  </attendee>
+
+	<attendee name="Kristen Chadbourne" badge_type="Staff" badge_number="160" no_cheese="false">
+  </attendee>
+
+	<attendee name="Andrew Aversa" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Cassandra Wire" badge_type="Staff" badge_number="106" no_cheese="true">
+	  <notes>No tomatoes; sauces are fine, but I can't have them raw.
+	  </notes>
+  </attendee>
+
+	<attendee name="James Kelley" badge_type="Supporter" badge_number="1248" now_eligible="false" no_cheese="false">
+  </attendee>
+
+	<attendee name="Vance Payne" badge_type="Staff" badge_number="125" no_cheese="false">
+  </attendee>
+
+	<attendee name="Emilie Selbo" badge_type="Staff" badge_number="51" no_cheese="true">
+  </attendee>
+
+	<attendee name="Eric Davis" badge_type="Staff" badge_number="246" no_cheese="false">
+  </attendee>
+
+	<attendee name="Trey Frye" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Bobby Schweizer" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Michael Peloquin" badge_type="Staff" badge_number="58" no_cheese="false">
+  </attendee>
+
+	<attendee name="William Barbour" badge_type="Staff" badge_number="377" no_cheese="false">
+		<notes>Blue cheese  </notes>
+  </attendee>
+
+	<attendee name="Bunnawatt Yuos" badge_type="Staff" badge_number="239" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jon O&#39;Boyle" badge_type="Staff" badge_number="357" no_cheese="false">
+  </attendee>
+
+	<attendee name="Mary Van Dyke" badge_type="Staff" badge_number="226" no_cheese="true" dairy="true" gluten="true">
+	  <notes>No Tomatoes, peppers, cucumbers, raw onions, or sauce based on any of those. I'm more than happy to bring in my own "safe for me" ingredients and give them to the chefs if that will help feed me.
+	  </notes>
+  </attendee>
+
+	<attendee name="Philip Jones" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Dustin Galan" badge_type="Staff" badge_number="364" no_cheese="false">
+  </attendee>
+
+	<attendee name="Mark Flores" badge_type="Staff" badge_number="119" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kevin Campbell" badge_type="Staff" badge_number="430" no_cheese="false" pork="true">
+  </attendee>
+
+	<attendee name="Lisa Hartsock" badge_type="Staff" badge_number="304" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kevin Schaefer" badge_type="Staff" badge_number="203" no_cheese="false">
+		<notes>No treble.  </notes>
+  </attendee>
+
+	<attendee name="David Childress" badge_type="Staff" badge_number="290" no_cheese="false">
+  </attendee>
+
+	<attendee name="David Anderson" badge_type="Staff" badge_number="98" no_cheese="false">
+  </attendee>
+
+	<attendee name="David Vollenweider" badge_type="Staff" badge_number="208" no_cheese="true">
+  </attendee>
+
+	<attendee name="David Sullivan" badge_type="Supporter" badge_number="1073" now_eligible="false" no_cheese="false">
+  </attendee>
+
+	<attendee name="Adam Lane" badge_type="Staff" badge_number="505" no_cheese="false">
+  </attendee>
+
+	<attendee name="Tyler Phillips" badge_type="Staff" badge_number="473" no_cheese="false">
+  </attendee>
+
+	<attendee name="Brett Vanderbrook" badge_type="Staff" badge_number="354" no_cheese="false">
+  </attendee>
+
+	<attendee name="Amber Winzey" badge_type="Staff" badge_number="466" no_cheese="false">
+  </attendee>
+
+	<attendee name="Samantha Snyder" badge_type="Staff" badge_number="382" no_cheese="false">
+  </attendee>
+
+	<attendee name="Gregory Steffensen" badge_type="Staff" badge_number="194" no_cheese="false">
+  </attendee>
+
+	<attendee name="Terri Wilkerson" badge_type="Staff" badge_number="201" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kieran Fallon" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jesse Cray" badge_type="Staff" badge_number="262" no_cheese="false">
+  </attendee>
+
+	<attendee name="Matt Jordan" badge_type="Staff" badge_number="503" no_cheese="false">
+  </attendee>
+
+	<attendee name="Anthony Newton" badge_type="Staff" badge_number="173" no_cheese="false">
+  </attendee>
+
+	<attendee name="Michael Kelly" badge_type="Staff" badge_number="212" no_cheese="true">
+  </attendee>
+
+	<attendee name="Ryan Nichols" badge_type="Staff" badge_number="28" no_cheese="false">
+  </attendee>
+
+	<attendee name="David Hernly" badge_type="Staff" badge_number="60" no_cheese="false">
+  </attendee>
+
+	<attendee name="Marisha Ray" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Firippis Maria Elena" badge_type="Attendee" now_eligible="false" no_cheese="false">
+  </attendee>
+
+	<attendee name="Steven Boyar" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Bonnie Wilson" badge_type="Staff" badge_number="167" no_cheese="false">
+  </attendee>
+
+	<attendee name="Jeremy Crampton" badge_type="Staff" badge_number="492" no_cheese="false">
+  </attendee>
+
+	<attendee name="Thomas Judge" badge_type="Staff" badge_number="102" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kyle Bounaco" badge_type="Staff" badge_number="373" no_cheese="false">
+  </attendee>
+
+	<attendee name="Michael Ponter" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kelly Rathbun" badge_type="Staff" badge_number="143" no_cheese="false">
+		<notes>N/A  </notes>
+  </attendee>
+
+	<attendee name="Sam Wickert" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Dana Kobylenski" badge_type="Staff" badge_number="118" no_cheese="false">
+  </attendee>
+
+	<attendee name="Kevin Lin" badge_type="Staff" badge_number="81" no_cheese="false">
+  </attendee>
+
+	<attendee name="Charles Whittington" badge_type="Staff" badge_number="405" no_cheese="false" vegetarian="true" pork="true">
+  </attendee>
+
+	<attendee name="Gloria Noriega" badge_type="Staff" badge_number="251" no_cheese="false">
+  </attendee>
+
+	<attendee name="Anne Passovoy" badge_type="Staff" badge_number="342" no_cheese="false">
+		<notes>none  </notes>
+  </attendee>
+
+	<attendee name="Jeremy Pesner" badge_type="Staff" badge_number="114" no_cheese="false">
+  </attendee>
+
+	<attendee name="Michael Ridgaway" badge_type="Staff" badge_number="18" no_cheese="false">
+  </attendee>
+
+	<attendee name="Theodore Bulynko" badge_type="Staff" badge_number="464" no_cheese="false">
+  </attendee>
+
+	<attendee name="Brett Thorson" badge_type="Staff" badge_number="432" no_cheese="false">
+  </attendee>
+
+	<attendee name="Alan Reid" badge_type="Staff" badge_number="221" no_cheese="false">
+  </attendee>
+
+	<attendee name="Travis Porter" badge_type="Staff" badge_number="397" no_cheese="false">
+  </attendee>
+
+	<attendee name="Josiah Tillett" badge_type="Staff" badge_number="300" no_cheese="false" dairy="true">
+		<notes>Seriously, no Dairy.  </notes>
+  </attendee>
+
+	<attendee name="William Muldoon" badge_type="Staff" badge_number="416" no_cheese="false">
+  </attendee>
+
+	<attendee name="Elizbaeth Klein-Lebbink" badge_type="Staff" badge_number="322" no_cheese="false">
+  </attendee>
+
+	<attendee name="Leanne Cushing" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Chris De Pew" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Logan Clifton" badge_type="Staff" badge_number="235" no_cheese="false">
+  </attendee>
+
+	<attendee name="Natalie Dupree" badge_type="Staff" badge_number="399" no_cheese="false">
+  </attendee>
+
+	<attendee name="Amanda Wheeler" badge_type="Staff" badge_number="179" no_cheese="false">
+  </attendee>
+
+	<attendee name="Rachel Walker" badge_type="Guest" no_cheese="false">
+  </attendee>
+
+	<attendee name="Dusty Peterson" badge_type="Staff" badge_number="35" no_cheese="false">
+  </attendee>
+
+	<attendee name="John Steele" badge_type="Staff" badge_number="338" no_cheese="false">
+  </attendee>
+
+	<attendee name="Alex Lacey" badge_type="Staff" badge_number="121" no_cheese="false">
+  </attendee>
+
+</attendees>

@@ -1,0 +1,1 @@
+<cflocation url="#buildUrl('shifts')#" addtoken="no" />
