@@ -1,70 +1,55 @@
-/* CSS Document */
 
 
-#content li {
-  padding-top: 5px;
-  padding-bottom: 10px;
-}
-
-.navbar {
-  border-radius: 0;
-}
-
-.navbar-inverse .navbar-toggle {
-  color: #aaa;
-  border-color: #aaa;
-}
-.navbar-inverse .navbar-toggle:hover,
-.navbar-inverse .navbar-toggle:focus {
-  background-color: #aaa;
-  color: #333;
-}
 
 
-#menu .panel-body > div {
-  padding-bottom: 20px;
+#site-container,
+#header-block,
+#background-block {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+#background-block, #site-container { bottom: 0; }
+#header-block { bottom: 65%; }
+#site-container {
+	overflow: auto;
 }
 
-.enter-badge > div > div {
-  padding: 15px 0;
+.well > h1 {
+    font-weight: 700;
+    color: #009688;
+    border-bottom: solid 1px #009688;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
 }
-.enter-badge .btn {
-  font-size: 18px;
-  padding: 15px 10px;
-}
-.enter-badge .btn-lg, .btn-lg.bigger {
-  font-size: 24px;
-  padding: 20px 10px;
-}
-.enter-badge .form-control {
-  color: #000;
-  font-weight: bold;
-  font-size: 48px;
-  text-align: center;
-  padding: 5px 10px;
-  line-height:1;
-  height: auto;
-  margin-bottom: 30px;
+.well > h1 > small {
+    display: block;
+    font-size: 0.75em;
+    font-weight: 300;
+    margin-left: 15px;
+    margin-top: 10px;
 }
 
-#orderDelivery input[type="radio"],
-#orderDelivery input[type="checkbox"] {
-  width: 20px;
-  height: 20px; 
-  margin-right: 10px;
-}
-#orderDelivery .form-control {
-  margin-bottom: 25px;
-}
+.well ul, ol { padding: 15px 40px; padding-left: 50px; }
+.well li { padding: 5px 10px; }
+.well a { font-weight: bold; }
 
+.panel-heading > h2 { cursor: pointer; }
 
-@media (min-width: 992px) and (max-width: 1199px) {
-  .panel-body.shift-info {
-    height: 240px
-  }
+.panel .list-group { padding: 15px 0; }
+
+.front-menu > li { padding: 5px 15px; }
+.front-menu ul { padding: 0px 15px; list-style: none; }
+.front-menu .h4 {
+	background: #ffe0b2;
+    font-weight: 400;
+    padding: 5px 10px;
+    margin: 0;
 }
-@media (max-width: 767px) {
-  .panel-body.shift-info {
-    height: auto;
-  }
-}
+.front-menu strong { color: #ff5722; }

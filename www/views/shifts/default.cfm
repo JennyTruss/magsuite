@@ -1,12 +1,9 @@
-<cfset rc.title = "Regular Shifts" />	<!--- set a variable to be used in a layout --->
+<cfset rc.title = "Job Descriptions" />	<!--- set a variable to be used in a layout --->
 <style type="text/css">
 .panel-body.shift-info {
   height: 200px;
 }
 </style>
-
-<h1>Regular Shifts<br>
-<small>Anyone assigned to Food Prep can sign up for these</small></h1>
 
 <div class="col-md-4 col-sm-6">
 	<div class="panel panel-primary">
@@ -74,3 +71,13 @@
 	</div>
 </div>
 
+<div class="col-md-4 col-sm-6">
+	<div class="panel panel-primary">
+		<div class="panel-heading">
+			<p class="panel-title">Prep Assistant</p>
+		</div>
+		<div class="panel-body shift-info">
+			Assist Chefs with the preparation of meals. This involves working with food and equipment. What equipment you use will be at the discretion of the Chefs. This includes roasters, griddles, rice cookers, knives, and any other equipment. Safety is extremely important in this role.
+		</div>
+	</div>
+</div>

@@ -1,10 +1,3 @@
-﻿<!---<h2 class="text-center text-danger"><strong>Sorry!</strong></h2>
-<p class="lead text-center">Something has gone wrong. Please contact the <a href="mailto:jennifer.truss@gmail.com">Staff Suite</a> and let them know.</p>
---->
-
-
-
-
 <cfset request.layout = false />
 <!--- courtesy of Andreas Schuldhaus --->
 <div style="width: 50%; color: red; border: 2px dotted red; background-color: #f9f9f9; padding: 10px;">
@@ -24,3 +17,5 @@
 		</cfoutput>
 	</div>
 </div>
+
+<cfdump var="#request#">
